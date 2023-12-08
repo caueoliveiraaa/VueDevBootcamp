@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leôncio Cauê\\Desktop\\cSharoBasics\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Leôncio Cauê\\Desktop\\CSharpBasics\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leôncio Cauê\\Desktop\\cSharoBasics\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Leôncio Cauê\\Desktop\\CSharpBasics\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leôncio Cauê\\Desktop\\cSharoBasics\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Leôncio Cauê\\Desktop\\CSharpBasics\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Leôncio Cauê\\Desktop\\cSharoBasics\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Leôncio Cauê\\Desktop\\CSharpBasics\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Leôncio Cauê\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leôncio Cauê\\Desktop\\cSharoBasics\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Leôncio Cauê\\Desktop\\CSharpBasics\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leôncio Cauê\\AppData\\Roaming\\NuGet\\NuGet.Config"
