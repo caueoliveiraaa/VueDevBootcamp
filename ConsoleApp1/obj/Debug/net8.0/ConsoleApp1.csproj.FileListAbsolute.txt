@@ -28,3 +28,10 @@ C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\obj\Debug\net8.0\refint
 C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Leôncio Cauê\Desktop\CSharpBasics\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete
