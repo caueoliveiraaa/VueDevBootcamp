@@ -2,6 +2,8 @@
   <div>
     {{greet}} {{name}}
     <div v-text="channel"></div>
+    <div v-html="channel2"></div>
+    <div v-html="hack"></div>
   </div>
 </template>
 
@@ -13,6 +15,8 @@
         greet: "Hello",
         name: "Bot",
         channel: "Coding",
+        channel2: "<b>Coding<b>", 
+        hack: `<a href="#" onclick="alert('You have been hacked!')">Click me</a>`,
       }
     }
   }
